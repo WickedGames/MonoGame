@@ -53,6 +53,7 @@ using MonoTouch.MediaPlayer;
 using SharpDX.MediaFoundation;
 using SharpDX;
 using Windows.Storage;
+using Windows.UI.Core;
 #endif
 
 using System.Linq;

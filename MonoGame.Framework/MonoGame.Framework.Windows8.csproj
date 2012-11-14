@@ -350,26 +350,26 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="SharpDX">
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX\bin\Win8Release\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct2D1">
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.Direct2D1.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX.Direct2D1\bin\Win8Release\SharpDX.Direct2D1.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D11">
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.Direct3D11.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX.Direct3D11\bin\Win8Release\SharpDX.Direct3D11.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.DXGI, Version=2.0.4.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.DXGI.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX.DXGI\bin\Win8Release\SharpDX.DXGI.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.MediaFoundation">
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.MediaFoundation.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX.MediaFoundation\bin\Win8Release\SharpDX.MediaFoundation.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.XAudio2">
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.XAudio2.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX.XAudio2\bin\Win8Release\SharpDX.XAudio2.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.XInput">
-      <HintPath>..\ThirdParty\Libs\SharpDX\Windows 8 Metro\SharpDX.XInput.dll</HintPath>
+      <HintPath>..\..\sharpdx\Source\SharpDX.XInput\bin\Win8Release\SharpDX.XInput.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
